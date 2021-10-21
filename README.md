@@ -8,3 +8,6 @@ Second homework [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinde
 Second homework solved [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luissilvestre/numerical_analysis/HEAD?labpath=hw2_solved.ipynb)
 
 Third homework [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luissilvestre/numerical_analysis/HEAD?labpath=hw3.ipynb)
+Third homework solved [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luissilvestre/numerical_analysis/HEAD?labpath=hw3_solved.ipynb)
+
+Fourth homework [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luissilvestre/numerical_analysis/HEAD?labpath=hw4.ipynb)
