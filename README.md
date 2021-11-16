@@ -20,3 +20,6 @@ Fifth homework [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder
 Fifth homework solved [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luissilvestre/numerical_analysis/HEAD?labpath=hw5_solved.ipynb)
 
 Sixth homework [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luissilvestre/numerical_analysis/HEAD?labpath=hw6.ipynb)
+Sixth homework solved [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luissilvestre/numerical_analysis/HEAD?labpath=hw6_solved.ipynb)
+
+Seventh homework [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luissilvestre/numerical_analysis/HEAD?labpath=hw7.ipynb)
